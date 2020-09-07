@@ -1,1 +1,1 @@
-# atcoder-library-rs
+# AtCoder Library in Rust
