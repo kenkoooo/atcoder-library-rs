@@ -1,1 +1,1 @@
-# AtCoder Library in Rust
+https://github.com/rust-lang-ja/ac-library-rs
